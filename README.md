@@ -1,13 +1,5 @@
-# cross-product-example
+# three-var-basic-symmetric-polynomial-example
 
-## GitHub configuration
-
-To set up your new GitHub repository, follow these steps:
-
-* Under your repository name, click **Settings**.
-* In the **Actions** section of the sidebar, click "General".
-* Check the box **Allow GitHub Actions to create and approve pull requests**.
-* Click the **Pages** section of the settings sidebar.
-* In the **Source** dropdown menu, select "GitHub Actions".
-
-After following the steps above, you can remove this section from the README file.
+Lean 4 example around basic symmetric polynomials in three variables.
+Build with `lake build` (requires Lean 4 and Lake).
+Main source: `ThreeVarBasicSymmPolynomial.lean`.
