@@ -1,4 +1,4 @@
-name = "three-var-basic-symmetric-polynomial"
+name = "three-var-basic-symmetric-polynomial-example"
 version = "0.1.0"
 keywords = ["math"]
 defaultTargets = ["ThreeVarBasicSymmPolynomial"]
